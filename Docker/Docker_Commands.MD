@@ -68,10 +68,10 @@ docker exec -it <container_Name> /bin/bash
 
 13. List out all docker container and filter(running, stpooed, terminated, etc...)
 ```sh
-docker ps -a | grep "container_name"
+docker ps -a | grep <container_Name>
 ```
 
 6. List out running containers and filter
 ```sh
-docker ps | grep "container_name"
+docker ps | grep <container_Name>
 ```
