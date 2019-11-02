@@ -2,7 +2,7 @@
 
 This YouTube video follows the workflow I’ve created below –
 
-[![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=Vcdf8qSndOs&list=PLqFI2r42bxjI_m2tUH18dT15wAu9o0uSV)
+[![Alt text](https://www.youtube.com/watch?v=Vcdf8qSndOs&list=PLqFI2r42bxjI_m2tUH18dT15wAu9o0uSV.jpg)](https://www.youtube.com/watch?v=Vcdf8qSndOs&list=PLqFI2r42bxjI_m2tUH18dT15wAu9o0uSV)
 
 1.	Download MobaXterm
 2.	Set up Ec2 instance using OL7.2-x86_64-HVM-2015-12-10 Amazon Machine Image (AMI) with three additional volumes of 5, 8 and 10 gb (this will make your life easier).
